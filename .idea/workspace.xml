@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76e6bf58-a16e-425c-910e-4b7f0877d699" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/VueTodoApi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/VueTodoApi.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Providers/AuthServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/AuthServiceProvider.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/User.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/auth.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/services.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/services.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -174,12 +165,24 @@
       <workItem from="1586877815545" duration="7268000" />
       <workItem from="1586937390060" duration="26000" />
       <workItem from="1586942834872" duration="4225000" />
-      <workItem from="1587041252469" duration="1598000" />
+      <workItem from="1587041252469" duration="1707000" />
     </task>
+    <task id="LOCAL-00001" summary="Install Passport:&#10;In Our Backend Api Install Passport &amp; Create login &amp; Register &amp; logout Functionality">
+      <created>1587042950325</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587042950325</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Install Passport:&#10;In Our Backend Api Install Passport &amp; Create login &amp; Register &amp; logout Functionality" />
+    <option name="LAST_COMMIT_MESSAGE" value="Install Passport:&#10;In Our Backend Api Install Passport &amp; Create login &amp; Register &amp; logout Functionality" />
   </component>
   <component name="WindowStateProjectService">
     <state x="417" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1586601213440">
@@ -190,6 +193,10 @@
       <screen x="0" y="0" width="1360" height="768" />
     </state>
     <state x="410" y="138" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1360.768@0.0.1360.768" timestamp="1587041985675" />
+    <state x="303" y="0" key="CommitChangelistDialog2" timestamp="1587042948133">
+      <screen x="0" y="0" width="1360" height="768" />
+    </state>
+    <state x="303" y="0" key="CommitChangelistDialog2/0.0.1360.768@0.0.1360.768" timestamp="1587042948133" />
     <state x="460" y="138" key="FileChooserDialogImpl" timestamp="1586960276120">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
