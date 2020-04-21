@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76e6bf58-a16e-425c-910e-4b7f0877d699" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/TodosController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/TodosController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Todo.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Todo.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2020_04_11_102308_create_todos_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_04_11_102308_create_todos_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,7 +143,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../VueTodo" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager">
@@ -165,7 +170,9 @@
       <workItem from="1586877815545" duration="7268000" />
       <workItem from="1586937390060" duration="26000" />
       <workItem from="1586942834872" duration="4225000" />
-      <workItem from="1587041252469" duration="1707000" />
+      <workItem from="1587041252469" duration="1740000" />
+      <workItem from="1587139874981" duration="254000" />
+      <workItem from="1587456748477" duration="3628000" />
     </task>
     <task id="LOCAL-00001" summary="Install Passport:&#10;In Our Backend Api Install Passport &amp; Create login &amp; Register &amp; logout Functionality">
       <created>1587042950325</created>
@@ -174,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587042950325</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Install Passport:&#10;In Our Backend Api Install Passport &amp; Create login &amp; Register &amp; logout Functionality">
+      <created>1587042975401</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587042975401</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -193,21 +207,29 @@
       <screen x="0" y="0" width="1360" height="768" />
     </state>
     <state x="410" y="138" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1360.768@0.0.1360.768" timestamp="1587041985675" />
-    <state x="303" y="0" key="CommitChangelistDialog2" timestamp="1587042948133">
+    <state x="303" y="0" key="CommitChangelistDialog2" timestamp="1587042980120">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
-    <state x="303" y="0" key="CommitChangelistDialog2/0.0.1360.768@0.0.1360.768" timestamp="1587042948133" />
-    <state x="460" y="138" key="FileChooserDialogImpl" timestamp="1586960276120">
+    <state x="303" y="0" key="CommitChangelistDialog2/0.0.1360.768@0.0.1360.768" timestamp="1587042980120" />
+    <state x="460" y="138" key="FileChooserDialogImpl" timestamp="1587458544843">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
-    <state x="460" y="138" key="FileChooserDialogImpl/0.0.1360.768@0.0.1360.768" timestamp="1586960276120" />
+    <state x="460" y="138" key="FileChooserDialogImpl/0.0.1360.768@0.0.1360.768" timestamp="1587458544843" />
     <state x="452" y="182" key="NewPhpClassDialog" timestamp="1586891336631">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
     <state x="452" y="182" key="NewPhpClassDialog/0.0.1360.768@0.0.1360.768" timestamp="1586891336631" />
-    <state x="343" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1587041884056">
+    <state width="498" height="446" key="SwitcherDM" timestamp="1587459105775">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
-    <state x="343" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1360.768@0.0.1360.768" timestamp="1587041884056" />
+    <state width="498" height="446" key="SwitcherDM/0.0.1360.768@0.0.1360.768" timestamp="1587459105775" />
+    <state x="272" y="112" key="Vcs.Push.Dialog.v2" timestamp="1587042984255">
+      <screen x="0" y="0" width="1360" height="768" />
+    </state>
+    <state x="272" y="112" key="Vcs.Push.Dialog.v2/0.0.1360.768@0.0.1360.768" timestamp="1587042984255" />
+    <state x="343" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1587457844335">
+      <screen x="0" y="0" width="1360" height="768" />
+    </state>
+    <state x="343" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1360.768@0.0.1360.768" timestamp="1587457844335" />
   </component>
 </project>
